@@ -23,3 +23,6 @@ Built as part of a learning project!
 
 live url to make it submit in roadmap.sh
 [https://roadmap.sh/projects/task-tracker-js]
+
+live url to for the application 
+[https://danielagboola52.github.io/Task-Tracker/]
